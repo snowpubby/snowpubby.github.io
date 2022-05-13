@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://snowpubby.github.io/sitemap.xml
