@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://snowpubby.github.io/posts/blog/helloworld/</loc>
+    <lastmod>2022-05-13T12:17:24+08:00</lastmod>
+  </url><url>
+    <loc>https://snowpubby.github.io/</loc>
+    <lastmod>2022-05-13T12:17:24+08:00</lastmod>
+  </url><url>
+    <loc>https://snowpubby.github.io/posts/</loc>
+    <lastmod>2022-05-13T12:17:24+08:00</lastmod>
+  </url><url>
+    <loc>https://snowpubby.github.io/posts/blog/</loc>
+    <lastmod>2022-05-13T12:17:24+08:00</lastmod>
+  </url><url>
     <loc>https://snowpubby.github.io/categories/</loc>
   </url><url>
     <loc>https://snowpubby.github.io/series/</loc>
   </url><url>
-    <loc>https://snowpubby.github.io/</loc>
-  </url><url>
     <loc>https://snowpubby.github.io/tags/</loc>
+  </url><url>
+    <loc>https://snowpubby.github.io/categories/%E5%88%86%E7%B1%BB1/</loc>
+  </url><url>
+    <loc>https://snowpubby.github.io/posts/life/</loc>
+  </url><url>
+    <loc>https://snowpubby.github.io/posts/read/</loc>
+  </url><url>
+    <loc>https://snowpubby.github.io/posts/tech/</loc>
+  </url><url>
+    <loc>https://snowpubby.github.io/tags/%E6%A0%87%E7%AD%BE1/</loc>
   </url>
 </urlset>
